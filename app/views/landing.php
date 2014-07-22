@@ -17,10 +17,10 @@ date_default_timezone_set ('america/new_york');
 
 <h1>Welcome!</h1>
 
-<a href="http://www.w3schools.com/" target="_blank">Visit W3Schools!</a><br><br>
-<a href="http://www.w3schools.com/" target="_blank">Visit W3Schools!</a><br><br>
-<a href="http://www.w3schools.com/" target="_blank">Visit W3Schools!</a><br><br>
-<a href="http://www.w3schools.com/" target="_blank">Visit W3Schools!</a><br><br>
+<a href="ultimate-video.jeremynixon.me/open-club" target="_blank">Open Club</a><br><br>
+<a href="ultimate-video.jeremynixon.me/mixed-club" target="_blank">Mixed Club</a><br><br>
+<a href="ultimate-video.jeremynixon.me/women-club" target="_blank">Women's Club</a><br><br>
+<a href="ultimate-video.jeremynixon.me/open-college" target="_blank">College Open</a><br><br>	
 
 </body>
 </html>
