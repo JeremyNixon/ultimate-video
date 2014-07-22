@@ -43,11 +43,6 @@ date_default_timezone_set ('america/new_york');
 <div class="label">Doublewide vs. Sockeye (ECC)</div><br>
 <iframe width="200" height="100" src="//www.youtube.com/embed/szRTyYGY5oo" frameborder="0" allowfullscreen></iframe><br>
 
-<div class="label">Nexgen vs. Sockeye</div><br>
-
-<div class="label">Nexgen vs. Furious</div><br>
-<iframe src="//player.vimeo.com/video/26276821" width="200" height="100" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
-
 <div class="label">Truckstop vs. Southpaw (Mid-Atlantic Regional Finals)</div><br>
 <iframe width="200" height="100" src="//www.youtube.com/embed/T8rn8nAwcMU" frameborder="0" allowfullscreen></iframe><br>
 
